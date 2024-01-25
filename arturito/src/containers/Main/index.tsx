@@ -32,7 +32,7 @@ const MainContainer = () => {
           <div className="p-3">
             <p className="font-bold text-xl"># TODO</p>
             <p>
-              Agregar tabla con las starships sacadas de la API. Mostrar para
+              Agregar tabla con las starships de la API. Mostrar para
               cada starship: name, model, manufacturer, passengers, cantidad de
               films. Codear en un componente aparte tal como {'<Planets>'}.
             </p>
